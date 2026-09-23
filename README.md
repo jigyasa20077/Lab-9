@@ -1,0 +1,3 @@
+Day 9 — Marketing Copy and Compliance
+
+Day 9 focused on using Generative AI to create aviation marketing content while maintaining accuracy and compliance. A fictional AeroVista Student Saver campaign was adapted for different communication channels including LinkedIn, Instagram, advertisements, promotional email and website content. The activity demonstrated how one verified campaign brief can be converted into different formats while maintaining consistent information. Students also checked the generated content for unsupported claims, misleading promises, incorrect discounts, baggage information and other potentially risky statements. The main learning was that marketing content should remain attractive while staying within verified business information.
